@@ -1,0 +1,1 @@
+public enum RpsThrow {ROCK,PAPER,SCISSORS}
